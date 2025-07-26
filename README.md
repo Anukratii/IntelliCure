@@ -24,7 +24,8 @@ IntelliCure is a full-stack, AI-enabled healthcare platform designed to assist u
 * Fully responsive and mobile-friendly UI
 * Future-ready for Web3, chatbots, and LLM integration
 
-## IntelliCure is just the beginning. You’re welcome to fork, expand, or collaborate to take it further. Whether you're adding AI tools, backend support, or Web3 features — let’s shape intelligent healthcare together.
 
 
+ 
+ IntelliCure is just the beginning. You’re welcome to fork, expand, or collaborate to take it further. Whether you're adding AI tools, backend support, or Web3 features — let’s shape intelligent healthcare together.
 
