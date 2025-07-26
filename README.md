@@ -6,11 +6,11 @@ IntelliCure is a full-stack, AI-enabled healthcare platform designed to assist u
 
 ## Tech Stack
 
-Frontend: Next.js (React), Tailwind CSS
-Backend: Django, Django REST Framework (DRF)
-Machine Learning: Python-based Symptom–Disease Prediction Model
-Database: PostgreSQL / SQLite
-Deployment: Vercel (Frontend), Render / Heroku (Backend)
+* Frontend: Next.js (React), Tailwind CSS
+* Backend: Django, Django REST Framework (DRF)
+* Machine Learning: Python-based Symptom–Disease Prediction Model
+* Database: PostgreSQL / SQLite
+* Deployment: Vercel (Frontend), Render / Heroku (Backend)
 
 
 
@@ -23,4 +23,8 @@ Deployment: Vercel (Frontend), Render / Heroku (Backend)
 * Scalable, modular backend for API access
 * Fully responsive and mobile-friendly UI
 * Future-ready for Web3, chatbots, and LLM integration
+
+## IntelliCure is just the beginning. You’re welcome to fork, expand, or collaborate to take it further. Whether you're adding AI tools, backend support, or Web3 features — let’s shape intelligent healthcare together.
+
+
 
